@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  const age = parseInt( ("How old are you?"));
+  const age = parseInt(form("How old are you?"));
 
   if (age >= 18) {
     $('#over18').show();

@@ -44,4 +44,4 @@ _You can find more of our work at:_
 
 _For any problems, please file an issue on Github. Pull Requests welcome._
 
-Copyright (c) _2022_ _Hayley McVay_ _Kevin Williams_
+Copyright (c) _2022_ _Hayley McVay_ and _Kevin Williams_
