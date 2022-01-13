@@ -1,11 +1,11 @@
-# _Debugging Javascript, based on Mad-Libs_
+# _Voting Information_
 
 #### By
 
 - _**Kevin Williams <https://github.com/k9w>**_
-- _**Tiffany Rodrigo <tiffa.rodrigs@gmail.com>**_
+- _**Hayley McVay <https://github.com/hmcvay>**_
 
-#### _Our first project with jQuery from _
+#### _A project with jQuery for Epicodus_
 
 ## Technologies Used
 
@@ -14,24 +14,24 @@
 
 ## Description
 
-_This is another Javascript and jQuery page assigned for pair programming on Wednesday January 12th 2022 at
+_This is another Javascript and jQuery page assigned for pair programming on Thursday January 13th 2022 at
 [Epicodus](https://epicodus.com)._
 
 _From [our curriculum](https://learnhowtoprogram.com), the assignment:_
-- [Forms](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/debugging-in-javascript-reading-console-errors)
+- [Practice: Branching](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/practice-branching)
 
-This is a fork of our previous repository: https://github.com/tiffarodrigs/Mad-Libs
+This is a fork of our previous repository: https://github.com/k9w/voting-information
 
 _You can find more of our work at:_
 
 * https://github.com/k9w
-* https://github.com/tiffarodrigs
+* https://github.com/hmcvay
 
 ## Setup/Installation Requirements
 
-- _Live site: <https://k9w.github.io/debugging-javascript>_
+- _Live site: <https://k9w.github.io/voting-information>_
 - _To contribute, clone the repo from:_
-- _<https://github.com/k9w/debugging-javascript>_
+- _<https://github.com/k9w/voting-information>_
 
 ## Known Bugs
 
@@ -44,4 +44,4 @@ _You can find more of our work at:_
 
 _For any problems, please file an issue on Github. Pull Requests welcome._
 
-Copyright (c) _2022_ _Tiffany Rodrigo_ _Kevin Williams_
+Copyright (c) _2022_ _Hayley McVay_ _Kevin Williams_
