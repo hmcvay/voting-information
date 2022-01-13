@@ -15,6 +15,7 @@ $(document).ready(function () {
 
     else {
       $('#under18').show();
+    }
     
   });
 });
