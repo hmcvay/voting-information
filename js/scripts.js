@@ -10,10 +10,12 @@ $(document).ready(function () {
 
 
     if (ageJs >= 18) {
+      $("#under18").hide();
       $('#over18').show();
     }
 
     else {
+      $('#over18').hide();
       $('#under18').show();
     }
     
