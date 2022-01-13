@@ -1,11 +1,12 @@
 $(document).ready(function () {
-  $("#ageInput").submit(function () {
+  $("form.ageInput").submit(function (event) {
     event.preventDefault();
     // Take ageTyped from HTML form, assign to variable 'result'.
-    const result = $("ageTyped").val();
+    const result = $("input#ageHTML").val();
+    console.log("result"+result);
     // Parse the input from 'result' to get a number and assign to 'ageJs'.
     const ageJs = parseInt(result);
-    
+    console.log("ageJs" + ageJs);
 
 
     if (ageJs >= 18) {
@@ -14,6 +15,6 @@ $(document).ready(function () {
 
     else {
       $('#under18').show();
-    }
+    
   });
 });
